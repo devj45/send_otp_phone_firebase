@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "247794125382",
+    "project_id": "sendotp-f3c5a",
+    "storage_bucket": "sendotp-f3c5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247794125382:android:8c93d12e1edbd4c020d847",
+        "android_client_info": {
+          "package_name": "com.kt.sendotpfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247794125382-ceej9gl61dspi2b5j76lbomi2hidbkjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kt.sendotpfirebase",
+            "certificate_hash": "c1d49dce8a302ba7a1a7566d7958938a1c1e7850"
+          }
+        },
+        {
+          "client_id": "247794125382-fd4r3ob920gmaihb20ctd3gorerdcbor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDty3U351uYPf3IzW7Nx8bep2_cVibJNQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247794125382-fd4r3ob920gmaihb20ctd3gorerdcbor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
